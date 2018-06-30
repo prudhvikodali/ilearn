@@ -1,4 +1,4 @@
-package com.ilearn.java.helloworld;
+package com.ilearn.helloworld;
 
 public class HelloWorldApplication {
     public static void main(String[] args) {
